@@ -7,7 +7,7 @@ Welcome to my internship repository for **KAITECH Summer Internship Program 2025
 ## 👩‍💻 Intern Info
 
 - **Name:** Farida Waheed Abdelbary
-- **Internship Period:** Summer 2025
+- **Internship Period:** Winter 2025
 - **Domain:** Python, OOP, Data Structures, AI, and Sensor Analysis
 - **Organization:** KAITECH
 
