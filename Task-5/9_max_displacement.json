@@ -1,0 +1,14 @@
+[
+    {
+        "Sensor":"S1",
+        "Displacement":0.0022
+    },
+    {
+        "Sensor":"S2",
+        "Displacement":0.0031
+    },
+    {
+        "Sensor":"S3",
+        "Displacement":0.0025
+    }
+]

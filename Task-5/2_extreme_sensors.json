@@ -1,0 +1,30 @@
+[
+    {
+        "Sensor":"S2",
+        "Timestamp":1745834400000,
+        "Temperature":36.5,
+        "Stress":14.0,
+        "Displacement":0.003
+    },
+    {
+        "Sensor":"S1",
+        "Timestamp":1745838000000,
+        "Temperature":36.1,
+        "Stress":12.5,
+        "Displacement":0.0021
+    },
+    {
+        "Sensor":"S2",
+        "Timestamp":1745838000000,
+        "Temperature":37.2,
+        "Stress":14.3,
+        "Displacement":0.0031
+    },
+    {
+        "Sensor":"S1",
+        "Timestamp":1745841600000,
+        "Temperature":37.0,
+        "Stress":13.0,
+        "Displacement":0.0022
+    }
+]

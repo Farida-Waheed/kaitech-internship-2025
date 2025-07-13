@@ -1,0 +1,32 @@
+{
+    "S1": {
+        "Temperature": {
+            "Max": 37.0,
+            "Min": 35.2,
+            "Avg": 36.1
+        },
+        "Displacement": {
+            "Max": 0.0022
+        }
+    },
+    "S2": {
+        "Temperature": {
+            "Max": 37.2,
+            "Min": 36.5,
+            "Avg": 36.85
+        },
+        "Displacement": {
+            "Max": 0.0031
+        }
+    },
+    "S3": {
+        "Temperature": {
+            "Max": 34.0,
+            "Min": 34.0,
+            "Avg": 34.0
+        },
+        "Displacement": {
+            "Max": 0.0025
+        }
+    }
+}
